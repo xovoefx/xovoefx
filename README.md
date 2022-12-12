@@ -1,8 +1,8 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=Y70000&lines=Welcome+to+Joel-kb's+Profile;A+Noob+Programmer;Knows+Python+HTML+CSS+JavaScript;Join+@free_movies_all_languages;for+Movies...;TeleGram+Bot+Maker;Please+Star+and+Fork+My+Repos)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=Y70000&lines=Welcome+to+Xovo-efx+Profile;A+Noob+Programmer;Knows+Python+HTML+CSS+JavaScript;FollowMe+xovoefx;for+BotUpdates...;TeleGram+Bot+Maker;Please+Star+and+Fork+My+Repos)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Joelkb&label=Profile%20views&color=129e00&style=plastic" alt="Joelkb" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Joelkb&label=Profile%20views&color=129e00&style=plastic" alt="xovoefx" /> </p>
 
 <b>• 👨‍💻 Languages: Python, HTML, CSS, JavaScript
 
@@ -20,21 +20,15 @@
 
 <p align="center">
 
-<a href="https://telegram.me/creatorbeatz"><img alt="Telegram" src="https://img.shields.io/badge/Joelkb-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://telegram.me/xovo_efx"><img alt="Telegram" src="https://img.shields.io/badge/xovo-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
-<a href="https://telegram.me/free_movies_all_languages">
 
-    &nbsp;<img src="https://img.shields.io/badge/Free Movies-Group-blue?style=flat-square&logo=telegram" width="200" height="28">&nbsp;
-
-  </a>
-
-</p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Joelkb&theme=highcontrast" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=xovoefx&theme=highcontrast" align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Joelkb&theme=tokyonight" align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=xovoefx&theme=tokyonight" align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joelkb&layout=compact&theme=tokyonight" align="center">
 
@@ -44,9 +38,9 @@
 
 <p align="center">
 
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Joelkb&custom_title=Contribution+Graph&theme=xcode" />
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=xovoefx&custom_title=Contribution+Graph&theme=xcode" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Joelkb&hide=prs,issues&show_icons=true&title_color=3E4405F&text_color=3E4405F&icon_color=3E4405F&bg_color=3E4405F" alt="SVR's github stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=xovoefx&hide=prs,issues&show_icons=true&title_color=3E4405F&text_color=3E4405F&icon_color=3E4405F&bg_color=3E4405F" alt="SVR's github stats" align="center">
 
 </p>
 
